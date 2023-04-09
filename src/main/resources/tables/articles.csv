@@ -1,0 +1,4 @@
+id,category_id,title,description,text
+1,3,How to install Java on Windows,In this article we're going to install OpenJDK on Windows
+2,3,How to configure IntelliJ IDEA,We will discover IntelliJ IDEA options to configure our Java projects
+3,2,Create Helm Chart from scratch,We're going to create a Helm Chart from scratch in this article
